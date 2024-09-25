@@ -1,1 +1,1 @@
-# eshithai---Epileptic-Seizure-Recognition
+# Epileptic-Seizure-Recognition
